@@ -1,0 +1,37 @@
+* {
+	box-sizing:border-box;
+	margin:0;
+	padding:0;
+}
+body {
+	height: 100vh;
+}
+
+
+
+.chart-1,
+.chart-2,
+.members-1,
+.members-2 {
+	
+}
+.social-1,
+.social-2,
+.social-3,
+.message,
+.settings {
+	
+}
+
+
+header,
+.alert {
+	background: #7477BF;
+}
+nav {
+	background: #4D4C71;
+}
+main {
+	background: white;
+}
+
